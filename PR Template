@@ -1,0 +1,12 @@
+# Pull Requests
+
+We’re not accepting code changes to the core product in this public repository.
+
+If you want to contribute:
+- Open an Issue (Bug, Feature, or Product Question)
+- If your PR only changes public docs in this repo, reference the related Issue and focus the diff strictly on docs.
+
+Checklist (for docs-only PRs):
+- [ ] Linked Issue
+- [ ] Scope limited to public docs/metadata
+- [ ] Links validated
