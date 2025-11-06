@@ -64,7 +64,7 @@ Who it’s for:
 - Backend/API: Next.js route handlers (versioned under /api/v1)
 - Database: PostgreSQL (Prisma ORM)
 - Auth: Supabase Auth
-- AI: Azure OpenAI (GPT‑4o family) via AI SDK
+- AI: Azure OpenAI (GPT‑o family) via AI SDK
 - Payments: Stripe (checkout, webhooks)
 - Hosting: Vercel + Vercel KV (rate limiting)
 - Testing: Playwright (E2E) + Vitest (unit)
