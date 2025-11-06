@@ -1,0 +1,17 @@
+name: Product Question
+description: Ask a question about SCAFFOLD
+title: "[Question] <short summary>"
+labels:
+  - question
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Any details that help us answer quickly (what you’re building, constraints, etc.)
