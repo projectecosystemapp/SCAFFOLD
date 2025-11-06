@@ -1,0 +1,20 @@
+# Security Policy
+
+We take security seriously. Please follow responsible disclosure.
+
+Do:
+- Report vulnerabilities privately via GitHub Security Advisories (preferred) or the contact form at [specdriver.dev](https://specdriver.dev).
+- Include steps to reproduce, impact, and any relevant logs or screenshots.
+- Allow us reasonable time to investigate and address the issue before public disclosure.
+
+Do not:
+- Test against production in ways that could harm other users.
+- Exfiltrate data, modify systems, or run destructive tests.
+
+Scope:
+- This repo hosts public docs and metadata. The hosted SCAFFOLD service is proprietary; please use private reports for anything involving the live product or infrastructure.
+
+We will:
+- Acknowledge reports promptly.
+- Provide status updates during investigation.
+- Credit researchers if desired after remediation (subject to consent).
