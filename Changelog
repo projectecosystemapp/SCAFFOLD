@@ -1,0 +1,15 @@
+# Changelog
+
+All notable changes to this public repository will be documented here.
+
+Format: Keep a Changelog, date in YYYY‑MM‑DD.
+
+## [Unreleased]
+- Add product FAQs, examples, and exports overview
+- Repo badges and social preview updates
+
+## [2025-11-06]
+- Initial public repo setup
+  - README with website link
+  - Contribution, Security, Support policies
+  - Issue templates and link-check workflow
